@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# If you get gnuTLS handshake in github you can fix it 
-# building git using openss instead of gnutls
+# If you get gnuTLS handshake in git you can fix it 
+# building git using openssl instead of gnutls
 # I make this script to make it more easy for all :)
 # Author: Klozz jesus
 ###########
