@@ -1,3 +1,4 @@
+--date 28-05-2011
 prism={obj=model.load("obj/prism.obj"),w = 10,h=10,d=20,pos={x=4,y=6} }
 
 cube={obj=model.load("obj/cube.obj"),w = 10,h=10,d=10}
